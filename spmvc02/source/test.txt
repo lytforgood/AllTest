@@ -1,0 +1,17 @@
+多个Controller写在同一文件下
+session request>Model
+增删查找
+分页显示
+EL表达式${}   c-JSTL标签  循环 判断 
+JS提交表单--返回值失败 spring配置文件配置json
+ajax返回值
+JSON处理
+REST风格
+拦截器 错误拦截器和登录拦截器   异常处理
+hibernate事务回滚  模糊查找  原生态sql
+批量删除 复选框 全选全不选反选
+文件上传下载,多文件上传下载
+JSR-303验证 转换器配置
+
+提交到github
+ 
