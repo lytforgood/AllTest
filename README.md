@@ -1,9 +1,9 @@
-学习过程中所有的练习代码
+瀛︿範杩囩▼涓殑缁冧範浠ｇ爜
 ====
-spmvc02--springmvc相关demo
+spmvc02--springmvc鐩稿叧demo
 
-Regular--正则相关demo
+Regular--姝ｅ垯鐩稿叧demo
 
-SplitDemo--按行处理分割
+SplitDemo--鎸夎澶勭悊鍒嗗壊
 
-URLDecoderBase64--URL解码与Base64解码的UDF
+URLDecoderBase64--URL瑙ｇ爜涓嶣ase64瑙ｇ爜鐨刄DF
